@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+html {
+  background: #005C99;
+  background: linear-gradient(to bottom, #009AC0 0%, #005C99 100%);
+}
+
+h2.title.has-text-white {
+  margin-bottom: 0;
+}
+
+.image.is-3by2 {
+  padding-top:0;
+}
+
+.container.section.has-text-centered {
+  width: 75%;
+}
+
+.columns {
+  min-height: 12rem;
+}
