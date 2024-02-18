@@ -11,7 +11,7 @@ Page 11 of that document gives some tips for balancing screen use with healthy l
 
 Sadly, that advice was published in PDF format only.
 
-This repository hold a manually recreated HTML version of that advice in:
+This repository holds a manually recreated HTML version of that advice in:
 
 - [Dutch (Nederlands)](https://blog.pother.ca/advice-for-childrens-screen-and-social-media-use/nl/)
 - [English](https://blog.pother.ca/advice-for-childrens-screen-and-social-media-use/en/)
